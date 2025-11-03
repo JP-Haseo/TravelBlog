@@ -1,0 +1,5 @@
+{
+  "name": "Wanderlust Whispers",
+  "description": "An anonymous travel blogging platform where you can share your adventures and read stories from around the globe. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
